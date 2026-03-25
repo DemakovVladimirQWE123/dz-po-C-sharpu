@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" />
+  <Project Path="ConsoleApp7/ConsoleApp7.csproj" />
+  <Project Path="ConsoleApp8/ConsoleApp8.csproj" />
+  <Project Path="ConsoleApp9/ConsoleApp9.csproj" />
+</Solution>

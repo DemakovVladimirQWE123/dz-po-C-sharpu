@@ -1,0 +1,25 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp10/ConsoleApp10.csproj" Id="8211eb53-3ef5-4e59-af4d-401ad55fe0d8" />
+  <Project Path="ConsoleApp11/ConsoleApp11.csproj" Id="a51e7c98-ed44-4ce1-aac2-162bda602d26" />
+  <Project Path="ConsoleApp12/ConsoleApp12.csproj" Id="a298be16-3ac1-4a3e-a257-c78a7d62779e" />
+  <Project Path="ConsoleApp13/ConsoleApp13.csproj" Id="2cfecf67-7e94-430e-94d3-a4af0b8b5705" />
+  <Project Path="ConsoleApp14/ConsoleApp14.csproj" Id="af16ca4a-19ca-4520-b957-c2d4f9b397d8" />
+  <Project Path="ConsoleApp15/ConsoleApp15.csproj" Id="60c4e152-60a1-4391-9c79-c940eeb73105" />
+  <Project Path="ConsoleApp16/ConsoleApp16.csproj" Id="26e49f15-3865-45c0-9e98-4634be3a1d97" />
+  <Project Path="ConsoleApp17/ConsoleApp17.csproj" Id="dacc050e-f960-4687-a5f1-9496a956aa12" />
+  <Project Path="ConsoleApp18/ConsoleApp18.csproj" Id="2e73d4b8-3e3b-4999-9de9-723dd6aa4b9e" />
+  <Project Path="ConsoleApp19/ConsoleApp19.csproj" Id="7b8c020e-7c76-4239-94b7-f1e8af9ce46e" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="f34cad8b-816f-4e43-9505-eff7986f6115" />
+  <Project Path="ConsoleApp20/ConsoleApp20.csproj" Id="9eae9da8-25a3-4055-b152-c37bfd70f63b" />
+  <Project Path="ConsoleApp21/ConsoleApp21.csproj" Id="fd832432-765b-4878-83ee-fd39704c2d74" />
+  <Project Path="ConsoleApp22/ConsoleApp22.csproj" Id="6b5471c0-d3d4-45fa-997d-d74466b57884" />
+  <Project Path="ConsoleApp23/ConsoleApp23.csproj" Id="5baa3fb9-67bf-4cea-a765-f3411992f5a3" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="e192935c-e3e9-40d6-bed7-a8f8ecf3f3ab" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" Id="4d7c7449-0c30-4af5-b9b7-883ec4b53c3c" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="6178b383-96b9-4665-87e3-b760bfbe6ee9" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="1d8901c0-cb6c-41c3-93a4-2ad4e7ee7d48" />
+  <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="f13423c5-14f0-4e07-b334-d4ee1cbd426a" />
+  <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="7fbec9ea-c530-4e10-8d49-53bb8ba52ef5" />
+  <Project Path="ConsoleApp9/ConsoleApp9.csproj" Id="f5366e5e-7eb3-4ec9-a1ac-ec9b321e0d13" />
+</Solution>

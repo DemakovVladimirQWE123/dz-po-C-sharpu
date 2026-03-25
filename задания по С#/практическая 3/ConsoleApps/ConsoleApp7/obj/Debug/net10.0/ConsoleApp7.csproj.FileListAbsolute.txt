@@ -1,0 +1,14 @@
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.exe
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.deps.json
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.runtimeconfig.json
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.dll
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\bin\Debug\net10.0\ConsoleApp7.pdb
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.dll
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\refint\ConsoleApp7.dll
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.pdb
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp7\obj\Debug\net10.0\ref\ConsoleApp7.dll
