@@ -1,0 +1,14 @@
+D:\Лаба 7\14\bin\Debug\net10.0\14.exe
+D:\Лаба 7\14\bin\Debug\net10.0\14.deps.json
+D:\Лаба 7\14\bin\Debug\net10.0\14.runtimeconfig.json
+D:\Лаба 7\14\bin\Debug\net10.0\14.dll
+D:\Лаба 7\14\bin\Debug\net10.0\14.pdb
+D:\Лаба 7\14\obj\Debug\net10.0\14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаба 7\14\obj\Debug\net10.0\14.AssemblyInfoInputs.cache
+D:\Лаба 7\14\obj\Debug\net10.0\14.AssemblyInfo.cs
+D:\Лаба 7\14\obj\Debug\net10.0\14.csproj.CoreCompileInputs.cache
+D:\Лаба 7\14\obj\Debug\net10.0\14.dll
+D:\Лаба 7\14\obj\Debug\net10.0\refint\14.dll
+D:\Лаба 7\14\obj\Debug\net10.0\14.pdb
+D:\Лаба 7\14\obj\Debug\net10.0\14.genruntimeconfig.cache
+D:\Лаба 7\14\obj\Debug\net10.0\ref\14.dll
