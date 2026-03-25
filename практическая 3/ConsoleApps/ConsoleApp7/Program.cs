@@ -10,14 +10,10 @@
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
             Console.SetCursorPosition(0, 0);
-            Console.Write("Введите значение А (true/false): ");
-            bool A = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение B (true/false): ");
-            bool B = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение C (true/false): ");
-            bool C = bool.Parse(Console.ReadLine());
-            bool D = !(A || !B && C) || C;
-            Console.WriteLine(D);
+            Console.Write("Введите значение x: ");
+            double x = double.Parse(Console.ReadLine());
+            double y = x > 0 ? Math.Sin(x) : Math.Cos(x);
+            Console.WriteLine($"y = {y}");
             Console.Write("Введите любую клавишу...");
             Console.ReadKey();
         }

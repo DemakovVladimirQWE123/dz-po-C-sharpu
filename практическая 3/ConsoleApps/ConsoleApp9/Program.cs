@@ -10,14 +10,14 @@
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
             Console.SetCursorPosition(0, 0);
-            Console.Write("Введите значение А (true/false): ");
-            bool A = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение B (true/false): ");
-            bool B = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение C (true/false): ");
-            bool C = bool.Parse(Console.ReadLine());
-            bool D = !(!A || B && C) || A;
-            Console.WriteLine(D);
+            Console.Write("Введите первое число: ");
+            double a = double.Parse(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            double b = double.Parse(Console.ReadLine());
+
+            double max = a > b ? a : b;
+            double min = a < b ? a : b;
+            Console.WriteLine($"Максимальное: {max}, Минимальное: {min}");
             Console.Write("Введите любую клавишу...");
             Console.ReadKey();
         }

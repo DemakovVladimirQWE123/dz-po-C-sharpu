@@ -12,3 +12,18 @@ C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApp
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.pdb
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.genruntimeconfig.cache
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ref\ConsoleApp9.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.exe
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.deps.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.runtimeconfig.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\bin\Debug\net10.0\ConsoleApp9.pdb
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.sourcelink.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\refint\ConsoleApp9.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.pdb
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp9\obj\Debug\net10.0\ref\ConsoleApp9.dll

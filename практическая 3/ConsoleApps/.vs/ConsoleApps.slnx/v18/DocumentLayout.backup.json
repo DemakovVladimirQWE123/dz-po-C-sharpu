@@ -1,42 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\",
+  "WorkspaceRootPath": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFB9E807-5CED-4C75-AACA-DE81337FD66A}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFB9E807-5CED-4C75-AACA-DE81337FD66A}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E661332B-EBE0-4D20-8822-BBE106577A42}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E661332B-EBE0-4D20-8822-BBE106577A42}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE97208A-1C09-4340-A7FF-D728C9308845}|ConsoleApp26\\ConsoleApp26.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE97208A-1C09-4340-A7FF-D728C9308845}|ConsoleApp26\\ConsoleApp26.csproj|solutionrelative:consoleapp26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE199925-EEB1-4BB5-B9ED-DCBA32695AC8}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE199925-EEB1-4BB5-B9ED-DCBA32695AC8}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AD6E89D-1B11-4D25-B816-5B204F62EAE3}|ConsoleApp27\\ConsoleApp27.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD6E89D-1B11-4D25-B816-5B204F62EAE3}|ConsoleApp27\\ConsoleApp27.csproj|solutionrelative:consoleapp27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7FD5F4-52A0-4378-8B62-82CF97662280}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7FD5F4-52A0-4378-8B62-82CF97662280}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A97A3B-801D-4086-AC8A-2D864E70060D}|ConsoleApp25\\ConsoleApp25.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A97A3B-801D-4086-AC8A-2D864E70060D}|ConsoleApp25\\ConsoleApp25.csproj|solutionrelative:consoleapp25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D103F0FB-AC71-46A4-9D53-CE4CDECD7D89}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D103F0FB-AC71-46A4-9D53-CE4CDECD7D89}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D12120C4-0CA8-4114-978A-5D97F1E1CB96}|ConsoleApp24\\ConsoleApp24.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12120C4-0CA8-4114-978A-5D97F1E1CB96}|ConsoleApp24\\ConsoleApp24.csproj|solutionrelative:consoleapp24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E98B034-077F-46A4-9FA3-466D8B719660}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E98B034-077F-46A4-9FA3-466D8B719660}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{133651A8-4C4A-4BD3-B178-445488E9CD1B}|ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133651A8-4C4A-4BD3-B178-445488E9CD1B}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D5EA79-9F63-43B0-B0EF-839225CE19B1}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83D5EA79-9F63-43B0-B0EF-839225CE19B1}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE9F8CF9-1DBB-4A0F-9A35-905AE69E11CD}|ConsoleApp22\\ConsoleApp22.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F8CF9-1DBB-4A0F-9A35-905AE69E11CD}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74000F68-6590-4A8C-AEE7-38207D2AC7E9}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74000F68-6590-4A8C-AEE7-38207D2AC7E9}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AF7E8F4-9839-4C18-933A-6077040B8230}|ConsoleApp21\\ConsoleApp21.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF7E8F4-9839-4C18-933A-6077040B8230}|ConsoleApp21\\ConsoleApp21.csproj|solutionrelative:consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80B43C3E-7911-47FE-ABC5-640068E7B252}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\timofei\\desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80B43C3E-7911-47FE-ABC5-640068E7B252}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BED2D1C9-A921-4387-B5A8-269283606E45}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED2D1C9-A921-4387-B5A8-269283606E45}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A5313B-D739-4E59-B5DD-40FA9A19422B}|ConsoleApp19\\ConsoleApp19.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A5313B-D739-4E59-B5DD-40FA9A19422B}|ConsoleApp19\\ConsoleApp19.csproj|solutionrelative:consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FE3D6A-9992-4023-AEF5-D13BE6AB1542}|ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FE3D6A-9992-4023-AEF5-D13BE6AB1542}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E878C277-643F-4600-B417-CA66E1D549C2}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E878C277-643F-4600-B417-CA66E1D549C2}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657219D-A344-4C4D-8D6F-BEAFE276D6DB}|ConsoleApp16\\ConsoleApp16.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657219D-A344-4C4D-8D6F-BEAFE276D6DB}|ConsoleApp16\\ConsoleApp16.csproj|solutionrelative:consoleapp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7A2AB5-B60D-46A4-93AB-DFECBB59E1E2}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7A2AB5-B60D-46A4-93AB-DFECBB59E1E2}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC02590-A836-4665-B91E-241B44AA6719}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC02590-A836-4665-B91E-241B44AA6719}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E69678-4D64-4E27-B80C-EACA556D9C41}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E69678-4D64-4E27-B80C-EACA556D9C41}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11984AE1-F12F-475A-9429-49CCB30AE148}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11984AE1-F12F-475A-9429-49CCB30AE148}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806F7017-7C12-4786-9C2C-D37FE0CD3A00}|ConsoleApp11\\ConsoleApp11.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806F7017-7C12-4786-9C2C-D37FE0CD3A00}|ConsoleApp11\\ConsoleApp11.csproj|solutionrelative:consoleapp11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC513ED-EE34-48EA-B025-7BE12DC9EFF7}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC513ED-EE34-48EA-B025-7BE12DC9EFF7}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397A24F4-2EB1-92A9-0692-F6399D524588}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397A24F4-2EB1-92A9-0692-F6399D524588}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAEC81D-C366-D28B-496D-8C3D2DB668CB}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAEC81D-C366-D28B-496D-8C3D2DB668CB}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2385163-1FC2-6662-B874-7413B6276681}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2385163-1FC2-6662-B874-7413B6276681}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B465B643-047E-7D71-3550-C82B41BF9B76}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B465B643-047E-7D71-3550-C82B41BF9B76}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\timofei\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0441# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\consoleapps\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +118,348 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp9\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp9\\Program.cs",
-              "RelativeToolTip": "ConsoleApp9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp27\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp27\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp27\\Program.cs",
+              "RelativeToolTip": "ConsoleApp27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:43:09.691Z",
+              "WhenOpened": "2026-03-25T18:21:15.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp8\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp8\\Program.cs",
-              "RelativeToolTip": "ConsoleApp8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp26\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp26\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp26\\Program.cs",
+              "RelativeToolTip": "ConsoleApp26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:42:23.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp7\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp7\\Program.cs",
-              "RelativeToolTip": "ConsoleApp7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:41:33.529Z",
+              "WhenOpened": "2026-03-25T18:20:56.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp6\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp6\\Program.cs",
-              "RelativeToolTip": "ConsoleApp6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp25\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp25\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp25\\Program.cs",
+              "RelativeToolTip": "ConsoleApp25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:39:51.527Z",
+              "WhenOpened": "2026-03-25T18:20:34.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp5\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp5\\Program.cs",
-              "RelativeToolTip": "ConsoleApp5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp24\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp24\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp24\\Program.cs",
+              "RelativeToolTip": "ConsoleApp24\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:37:35.996Z",
+              "WhenOpened": "2026-03-25T18:20:16.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp4\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp4\\Program.cs",
-              "RelativeToolTip": "ConsoleApp4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp23\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp23\\Program.cs",
+              "RelativeToolTip": "ConsoleApp23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:32:13.474Z",
+              "WhenOpened": "2026-03-25T18:18:04.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp22\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp22\\Program.cs",
+              "RelativeToolTip": "ConsoleApp22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T17:30:16.696Z",
+              "WhenOpened": "2026-03-25T18:17:47.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp21\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp21\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp21\\Program.cs",
+              "RelativeToolTip": "ConsoleApp21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:17:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "ConsoleApp20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:17:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp19\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp19\\Program.cs",
+              "RelativeToolTip": "ConsoleApp19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:16:44.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp18\\Program.cs",
+              "RelativeToolTip": "ConsoleApp18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:16:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp17\\Program.cs",
+              "RelativeToolTip": "ConsoleApp17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:16:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwB4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:30:16.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp16\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp16\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp16\\Program.cs",
+              "RelativeToolTip": "ConsoleApp16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:15:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:15:31.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:15:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp13\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp13\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp13\\Program.cs",
+              "RelativeToolTip": "ConsoleApp13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:14:59.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:14:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp11\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp11\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp11\\Program.cs",
+              "RelativeToolTip": "ConsoleApp11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:14:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:13:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:43:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:42:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:41:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:39:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:37:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:32:13.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,13 +468,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Timofei\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u043E \u0421# 2\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 3\\ConsoleApps\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T17:26:52.054Z",
               "EditorCaption": ""

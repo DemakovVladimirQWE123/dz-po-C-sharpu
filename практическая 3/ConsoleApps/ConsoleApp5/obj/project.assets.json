@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectUniqueName": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp5\\ConsoleApp5.csproj",
       "projectName": "ConsoleApp5",
-      "projectPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectPath": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp5\\ConsoleApp5.csproj",
       "packagesPath": "C:\\Users\\Timofei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp5\\obj\\",
+      "outputPath": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

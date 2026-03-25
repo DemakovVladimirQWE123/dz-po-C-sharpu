@@ -10,14 +10,15 @@
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
             Console.SetCursorPosition(0, 0);
-            Console.Write("Введите значение А (true/false): ");
-            bool A = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение B (true/false): ");
-            bool B = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение C (true/false): ");
-            bool C = bool.Parse(Console.ReadLine());
-            bool D = !(A && !B || C) && B;
-            Console.WriteLine(D);
+            Console.Write("Введите первое число: ");
+            double a = double.Parse(Console.ReadLine());
+            Console.Write("Введите второе число: ");
+            double b = double.Parse(Console.ReadLine());
+
+            if (a > b)
+                Console.WriteLine($"Больше: {a}, Меньше: {b}");
+            else
+                Console.WriteLine($"Больше: {b}, Меньше: {a}");
             Console.Write("Введите любую клавишу...");
             Console.ReadKey();
         }

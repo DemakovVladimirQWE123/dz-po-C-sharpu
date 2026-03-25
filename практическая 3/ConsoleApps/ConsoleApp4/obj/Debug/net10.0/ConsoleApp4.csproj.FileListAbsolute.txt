@@ -12,3 +12,18 @@ C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApp
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.pdb
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.genruntimeconfig.cache
 C:\Users\Timofei\Desktop\projects\projects\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ref\ConsoleApp4.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.exe
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.deps.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.pdb
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.sourcelink.json
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\refint\ConsoleApp4.dll
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.pdb
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Timofei\Desktop\задания по С# 2\практическая 3\ConsoleApps\ConsoleApp4\obj\Debug\net10.0\ref\ConsoleApp4.dll

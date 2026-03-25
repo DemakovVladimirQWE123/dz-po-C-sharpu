@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Timofei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\практическая 3\\ConsoleApps\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Timofei\\Desktop\\задания по С# 2\\практическая 3\\ConsoleApps\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

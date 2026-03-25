@@ -10,14 +10,15 @@
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Clear();
             Console.SetCursorPosition(0, 0);
-            Console.Write("Введите значение А (true/false): ");
-            bool A = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение B (true/false): ");
-            bool B = bool.Parse(Console.ReadLine());
-            Console.Write("Введите значение C (true/false): ");
-            bool C = bool.Parse(Console.ReadLine());
-            bool D = !(!A || B && C);
-            Console.WriteLine(D);
+            Console.Write("Введите целое число A: ");
+            int A = int.Parse(Console.ReadLine());
+            Console.WriteLine($"а) целое А кратно двум или трем: {A % 2 == 0 || A % 3 == 0}");
+            Console.WriteLine($"б) целое А не кратно трем и оканчивается нулем: {A % 3 != 0 && A % 10 == 0}");
+
+            Console.Write("Введите целое число N: ");
+            int N = int.Parse(Console.ReadLine());
+            Console.WriteLine($"в) целое N кратно пяти или семи: {N % 5 == 0 || N % 7 == 0}");
+            Console.WriteLine($"г) целое N кратно четырем и не оканчивается нулем: {N % 4 == 0 && N % 10 != 0}");
             Console.Write("Введите любую клавишу...");
             Console.ReadKey();
         }

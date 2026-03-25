@@ -1,6 +1,24 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp10/ConsoleApp10.csproj" Id="bec513ed-ee34-48ea-b025-7be12dc9eff7" />
+  <Project Path="ConsoleApp11/ConsoleApp11.csproj" Id="806f7017-7c12-4786-9c2c-d37fe0cd3a00" />
+  <Project Path="ConsoleApp12/ConsoleApp12.csproj" Id="11984ae1-f12f-475a-9429-49ccb30ae148" />
+  <Project Path="ConsoleApp13/ConsoleApp13.csproj" Id="e1e69678-4d64-4e27-b80c-eaca556d9c41" />
+  <Project Path="ConsoleApp14/ConsoleApp14.csproj" Id="3fc02590-a836-4665-b91e-241b44aa6719" />
+  <Project Path="ConsoleApp15/ConsoleApp15.csproj" Id="ef7a2ab5-b60d-46a4-93ab-dfecbb59e1e2" />
+  <Project Path="ConsoleApp16/ConsoleApp16.csproj" Id="c657219d-a344-4c4d-8d6f-beafe276d6db" />
+  <Project Path="ConsoleApp17/ConsoleApp17.csproj" Id="e878c277-643f-4600-b417-ca66e1d549c2" />
+  <Project Path="ConsoleApp18/ConsoleApp18.csproj" Id="29fe3d6a-9992-4023-aef5-d13be6ab1542" />
+  <Project Path="ConsoleApp19/ConsoleApp19.csproj" Id="d9a5313b-d739-4e59-b5dd-40fa9a19422b" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="ConsoleApp20/ConsoleApp20.csproj" Id="bed2d1c9-a921-4387-b5a8-269283606e45" />
+  <Project Path="ConsoleApp21/ConsoleApp21.csproj" Id="6af7e8f4-9839-4c18-933a-6077040b8230" />
+  <Project Path="ConsoleApp22/ConsoleApp22.csproj" Id="fe9f8cf9-1dbb-4a0f-9a35-905ae69e11cd" />
+  <Project Path="ConsoleApp23/ConsoleApp23.csproj" Id="133651a8-4c4a-4bd3-b178-445488e9cd1b" />
+  <Project Path="ConsoleApp24/ConsoleApp24.csproj" Id="d12120c4-0ca8-4114-978a-5d97f1e1cb96" />
+  <Project Path="ConsoleApp25/ConsoleApp25.csproj" Id="10a97a3b-801d-4086-ac8a-2d864e70060d" />
+  <Project Path="ConsoleApp26/ConsoleApp26.csproj" Id="fe97208a-1c09-4340-a7ff-d728c9308845" />
+  <Project Path="ConsoleApp27/ConsoleApp27.csproj" Id="4ad6e89d-1b11-4d25-b816-5b204f62eae3" />
   <Project Path="ConsoleApp3/ConsoleApp3.csproj" />
   <Project Path="ConsoleApp4/ConsoleApp4.csproj" />
   <Project Path="ConsoleApp5/ConsoleApp5.csproj" />
