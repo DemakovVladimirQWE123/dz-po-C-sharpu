@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание для ДД по JS</title>
+</head>
+<body>
+    <label>Начальное целое число от -5 до 5: </label>
+    <input type="number" id="start" min="-5" max="5" step="1" value="0">
+    <button id="run">Вычислить</button>
+    <pre id="output"></pre>
+
+    <script>
+        function calc(x) {
+            if (x < 0) return 120 / (-x);
+            return x / (45 - x);
+        }
+
+        const input = document.getElementById('start');
+        const button = document.getElementById('run');
+        const output = document.getElementById('output');
+
+        button.onclick = function() {
+            let start = parseInt(input.value, 10);
+            if (isNaN(start) || start < -5 || start > 5) {
+                output.textContent = 'Некорректный ввод. Должно быть целое число от -5 до 5.';
+                return;
+            }
+            let result = '';
+            for (let x = start; x <= 5; x++) {
+                result += `x = ${x}, y = ${calc(x)}\n`;
+            }
+            output.textContent = result;
+        };
+    </script>
+</body>
+</html>
