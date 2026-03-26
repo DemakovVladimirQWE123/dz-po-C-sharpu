@@ -12,7 +12,21 @@
     <pre id="output"></pre>
 
     <script>
-        function calc(x) {
+        var x = parseInt(prompt('inp x' + "ghfvh 'lnlkn' "));
+        while (-5 > x || x > 5) {
+            x = parseInt(prompt('введите в диапазоне -5 до 5'));
+        }
+        while (-5 <= x && x <= 5) {
+            if (x < 0) {
+                var y = 120 / (-x);
+            }
+            else {
+                y = x / (45 - x);
+            }
+            alert('y= '+y);
+            x++;
+        }
+        /*function calc(x) {
             if (x < 0) return 120 / (-x);
             return x / (45 - x);
         }
@@ -23,16 +37,17 @@
 
         button.onclick = function() {
             let start = parseInt(input.value, 10);
-            if (isNaN(start) || start < -5 || start > 5) {
+            if (start < -5 || start > 5) {
                 output.textContent = 'Некорректный ввод. Должно быть целое число от -5 до 5.';
                 return;
             }
             let result = '';
             for (let x = start; x <= 5; x++) {
-                result += `x = ${x}, y = ${calc(x)}\n`;
+                result += `x = ${x}, y = ${calc(x)}\n`;' ' "ghfvh 'lnlkn' " ` `
             }
             output.textContent = result;
-        };
+            alert(result)
+        };*/
     </script>
 </body>
 </html>
