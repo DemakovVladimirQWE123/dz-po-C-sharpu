@@ -1,0 +1,4 @@
+C:\Users\ovl72\Desktop\Лаба 8\Лаба 8\obj\Debug\net10.0\Лаба 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovl72\Desktop\Лаба 8\Лаба 8\obj\Debug\net10.0\Лаба 8.AssemblyInfoInputs.cache
+C:\Users\ovl72\Desktop\Лаба 8\Лаба 8\obj\Debug\net10.0\Лаба 8.AssemblyInfo.cs
+C:\Users\ovl72\Desktop\Лаба 8\Лаба 8\obj\Debug\net10.0\Лаба 8.csproj.CoreCompileInputs.cache

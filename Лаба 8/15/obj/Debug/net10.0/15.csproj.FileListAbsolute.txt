@@ -1,0 +1,14 @@
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.AssemblyInfoInputs.cache
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.AssemblyInfo.cs
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.csproj.CoreCompileInputs.cache
+C:\Users\ovl72\Desktop\Лаба 8\15\bin\Debug\net10.0\15.exe
+C:\Users\ovl72\Desktop\Лаба 8\15\bin\Debug\net10.0\15.deps.json
+C:\Users\ovl72\Desktop\Лаба 8\15\bin\Debug\net10.0\15.runtimeconfig.json
+C:\Users\ovl72\Desktop\Лаба 8\15\bin\Debug\net10.0\15.dll
+C:\Users\ovl72\Desktop\Лаба 8\15\bin\Debug\net10.0\15.pdb
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.dll
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\refint\15.dll
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.pdb
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\15.genruntimeconfig.cache
+C:\Users\ovl72\Desktop\Лаба 8\15\obj\Debug\net10.0\ref\15.dll

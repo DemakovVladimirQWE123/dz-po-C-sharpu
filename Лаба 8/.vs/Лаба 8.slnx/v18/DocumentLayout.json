@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3999D0-5E42-4DDE-9EC4-EB9289256154}|17\\17.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3999D0-5E42-4DDE-9EC4-EB9289256154}|17\\17.csproj|solutionrelative:17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E2EAFD-F0DD-4606-9DFC-9FDAFFCADC8D}|16\\16.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E2EAFD-F0DD-4606-9DFC-9FDAFFCADC8D}|16\\16.csproj|solutionrelative:16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625C2EB7-56E2-4415-9CCA-AAD17825F626}|15\\15.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625C2EB7-56E2-4415-9CCA-AAD17825F626}|15\\15.csproj|solutionrelative:15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4832B470-E77A-4F85-BA4A-0802F8006403}|12\\12.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4832B470-E77A-4F85-BA4A-0802F8006403}|12\\12.csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04565521-228D-48D2-9470-2FC6A7D17C1B}|14\\14.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04565521-228D-48D2-9470-2FC6A7D17C1B}|14\\14.csproj|solutionrelative:14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB658ADB-6150-421A-9975-7FE12681F9AE}|13\\13.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB658ADB-6150-421A-9975-7FE12681F9AE}|13\\13.csproj|solutionrelative:13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCC7704-FF77-41BF-83FD-B60953D752C5}|10\\10.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCC7704-FF77-41BF-83FD-B60953D752C5}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5DBEF4-C0B4-4820-A70E-E439855FA947}|11\\11.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5DBEF4-C0B4-4820-A70E-E439855FA947}|11\\11.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCC7704-FF77-41BF-83FD-B60953D752C5}|10\\10.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\10\\10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DCC7704-FF77-41BF-83FD-B60953D752C5}|10\\10.csproj|solutionrelative:10\\10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADADC28-C51F-4EFB-90D2-E5326D87C0D6}|\u041B\u0430\u0431\u0430 8\\1.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\\u043B\u0430\u0431\u0430 8\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ADADC28-C51F-4EFB-90D2-E5326D87C0D6}|\u041B\u0430\u0431\u0430 8\\1.csproj|solutionrelative:\u043B\u0430\u0431\u0430 8\\1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4DFCDC-770D-4905-94C5-161DFEEE8823}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{0E4DFCDC-770D-4905-94C5-161DFEEE8823}|C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0E4DFCDC-770D-4905-94C5-161DFEEE8823}|\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u04301{0E4DFCDC-770D-4905-94C5-161DFEEE8823}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620C1934-103E-4AD5-B2D4-1BD0FA3FEE2D}|9\\9.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620C1934-103E-4AD5-B2D4-1BD0FA3FEE2D}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F5E274-2833-4187-851F-33D6510B1237}|8\\8.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F5E274-2833-4187-851F-33D6510B1237}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A506B4CC-40B6-4BF9-BC34-07177999AB3C}|7\\7.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A506B4CC-40B6-4BF9-BC34-07177999AB3C}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA1CA7-11D5-49F1-B8FD-33C4490BF764}|6\\6.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AA1CA7-11D5-49F1-B8FD-33C4490BF764}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C7C5F-AE09-46E2-8FEE-329FE6A16A5B}|5\\5.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C7C5F-AE09-46E2-8FEE-329FE6A16A5B}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977443D-87EF-43A7-9CD4-9E4988519127}|4\\4.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977443D-87EF-43A7-9CD4-9E4988519127}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BCA66F-FBD0-4D1D-8833-386DE4B37706}|3\\3.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BCA66F-FBD0-4D1D-8833-386DE4B37706}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E191BE-572A-4DCA-BE01-35AAE302B20B}|2\\2.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E191BE-572A-4DCA-BE01-35AAE302B20B}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E191BE-572A-4DCA-BE01-35AAE302B20B}|2\\2.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\2\\2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39E191BE-572A-4DCA-BE01-35AAE302B20B}|2\\2.csproj|solutionrelative:2\\2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADADC28-C51F-4EFB-90D2-E5326D87C0D6}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.csproj|c:\\users\\ovl72\\desktop\\\u043B\u0430\u0431\u0430 8\\\u043B\u0430\u0431\u0430 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADADC28-C51F-4EFB-90D2-E5326D87C0D6}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.csproj|solutionrelative:\u043B\u0430\u0431\u0430 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\17\\Program.cs",
+              "RelativeDocumentMoniker": "17\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\17\\Program.cs",
+              "RelativeToolTip": "17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:23:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\16\\Program.cs",
+              "RelativeDocumentMoniker": "16\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\16\\Program.cs",
+              "RelativeToolTip": "16\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:16:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\15\\Program.cs",
+              "RelativeDocumentMoniker": "15\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\15\\Program.cs",
+              "RelativeToolTip": "15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:15:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\14\\Program.cs",
+              "RelativeDocumentMoniker": "14\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\14\\Program.cs",
+              "RelativeToolTip": "14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:15:51.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\13\\Program.cs",
+              "RelativeDocumentMoniker": "13\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\13\\Program.cs",
+              "RelativeToolTip": "13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:10:11.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\12\\Program.cs",
+              "RelativeDocumentMoniker": "12\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\12\\Program.cs",
+              "RelativeToolTip": "12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:10:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-12T19:54:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "10",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\10\\10.csproj",
+              "RelativeDocumentMoniker": "10\\10.csproj",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\10\\10.csproj",
+              "RelativeToolTip": "10\\10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T19:53:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\11\\Program.cs",
+              "RelativeDocumentMoniker": "11\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\11\\Program.cs",
+              "RelativeToolTip": "11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:53:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:53:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:50:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\8\\Program.cs",
+              "RelativeDocumentMoniker": "8\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\8\\Program.cs",
+              "RelativeToolTip": "8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:49:58.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:46:43.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:44:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:28:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:28:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:26:30.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\1.csproj",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 8\\1.csproj",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\1.csproj",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 8\\1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T19:15:13.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "2",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\2\\2.csproj",
+              "RelativeDocumentMoniker": "2\\2.csproj",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\2\\2.csproj",
+              "RelativeToolTip": "2\\2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T19:15:12.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:14:58.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 8\\Program.cs",
+              "ToolTip": "C:\\Users\\ovl72\\Desktop\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\Program.cs",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:13:52.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
