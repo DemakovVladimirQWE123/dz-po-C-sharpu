@@ -8,24 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Timofei\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Era1seer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\projects\\ConsoleApp23\\ConsoleApp23.csproj",
+      "projectUniqueName": "C:\\my-papka\\VS\\dz-po-C-sharpu\\практическая 2\\ConsoleApp23\\ConsoleApp23.csproj",
       "projectName": "ConsoleApp23",
-      "projectPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\projects\\ConsoleApp23\\ConsoleApp23.csproj",
-      "packagesPath": "C:\\Users\\Timofei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\projects\\ConsoleApp23\\obj\\",
+      "projectPath": "C:\\my-papka\\VS\\dz-po-C-sharpu\\практическая 2\\ConsoleApp23\\ConsoleApp23.csproj",
+      "packagesPath": "C:\\Users\\Era1seer\\.nuget\\packages\\",
+      "outputPath": "C:\\my-papka\\VS\\dz-po-C-sharpu\\практическая 2\\ConsoleApp23\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Timofei\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Era1seer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,24 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.14, 9.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.14, 9.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.14, 9.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.14, 9.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

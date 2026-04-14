@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/AVl/rVE8Y=",
+  "dgSpecHash": "h+UMaNUPxEg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timofei\\Desktop\\projects\\projects\\projects\\ConsoleApp18\\ConsoleApp18.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Timofei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
-    "C:\\Users\\Timofei\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
-    "C:\\Users\\Timofei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
-    "C:\\Users\\Timofei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\my-papka\\VS\\dz-po-C-sharpu\\практическая 2\\ConsoleApp18\\ConsoleApp18.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

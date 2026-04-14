@@ -1,0 +1,33 @@
+<Solution>
+  <Project Path="2.4/2.4.csproj" Id="fcfa15e5-dcd5-4ba9-8439-9c080f16b474" />
+  <Project Path="2.5/2.5.csproj" Id="c3c05380-3443-4bd1-afa0-b0c0ffdb5532" />
+  <Project Path="2.6/2.6.csproj" Id="2f9aeea7-9293-4a5d-932a-15d26e5f0eae" />
+  <Project Path="3.1/3.1.csproj" Id="0bae3441-b92d-4ea9-8f01-1c7bf138eb86" />
+  <Project Path="3.10/3.10.csproj" Id="e94f7baa-cdf0-4791-ac0d-8c370333bcef" />
+  <Project Path="3.11/3.11.csproj" Id="b796509f-5017-4559-a499-0414930a1e0e" />
+  <Project Path="3.12/3.12.csproj" Id="f606980f-cdea-4c69-af76-c49d03174004" />
+  <Project Path="3.13/3.13.csproj" Id="698f83d2-c809-424c-8506-349c9d69936e" />
+  <Project Path="3.14/3.14.csproj" Id="c90891ae-ba93-4c81-b104-1d53d8aa2dce" />
+  <Project Path="3.15/3.15.csproj" Id="4800dd2a-cfe0-4bfe-9e49-8a19e03817dc" />
+  <Project Path="3.2/3.2.csproj" Id="f7632410-c5cf-406e-9595-c127b5a40ff9" />
+  <Project Path="3.3а/3.3а.csproj" Id="69fb5b2d-cc41-4ffe-a0f4-3f2637049dfb" />
+  <Project Path="3.3б/3.3б.csproj" Id="74a6fde5-061c-4140-bb60-0ae9f321e08d" />
+  <Project Path="3.3в/3.3в.csproj" Id="730b2bd1-de37-4a21-9410-c75515467f6d" />
+  <Project Path="3.3г/3.3г.csproj" Id="3eb4c2d0-8725-4c7f-9d4d-e98eb78ed1a6" />
+  <Project Path="3.4а/3.4а.csproj" Id="6d8b3f26-202c-41fc-8db1-d84b4f8a4558" />
+  <Project Path="3.4б/3.4б.csproj" Id="4cf530ef-ba27-43a9-a685-da2f4509db7b" />
+  <Project Path="3.5/3.5.csproj" Id="dd2ba8b5-046f-4164-9c7e-1b969d445540" />
+  <Project Path="3.6/3.6.csproj" Id="02c664b9-a0a5-48f9-81b6-96ef11ff9248" />
+  <Project Path="3.7/3.7.csproj" Id="ce07d0d9-ca5c-40b0-95cc-eddc0a263591" />
+  <Project Path="3.8/3.8.csproj" Id="872e48fa-448a-4a4c-bb8f-5f0e1133bcef" />
+  <Project Path="3.9/3.9.csproj" Id="b0639ef3-3b83-449a-a122-1fbcdd1aeb8a" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="ffc953f1-184d-42b3-96a3-9245807dda8c" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="189aa08d-a35e-4aa9-bddc-c5a497ce469b" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" Id="40e20a92-ce17-4162-8ca5-22f3a5653bf8" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="798ec6f3-1802-4ec4-8cf7-5ac53ab50266" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="eb8f9f24-bb24-41b4-aa76-b73f324a3ea9" />
+  <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="72b701a9-7196-4b26-883d-95bb5c90e0e4" />
+  <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="36ef0b72-fd3a-47c7-8628-6136c9dc504e" />
+  <Project Path="ConsoleApp9/ConsoleApp9.csproj" Id="bfd2bd2b-6577-4197-8ad8-19ec0ea946d8" />
+</Solution>
