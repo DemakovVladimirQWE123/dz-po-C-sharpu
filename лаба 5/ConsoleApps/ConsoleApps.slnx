@@ -1,0 +1,27 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="ConsoleApp10/ConsoleApp10.csproj" />
+  <Project Path="ConsoleApp11/ConsoleApp11.csproj" />
+  <Project Path="ConsoleApp12/ConsoleApp12.csproj" />
+  <Project Path="ConsoleApp13/ConsoleApp13.csproj" />
+  <Project Path="ConsoleApp14/ConsoleApp14.csproj" />
+  <Project Path="ConsoleApp15/ConsoleApp15.csproj" />
+  <Project Path="ConsoleApp16/ConsoleApp16.csproj" />
+  <Project Path="ConsoleApp17/ConsoleApp17.csproj" />
+  <Project Path="ConsoleApp18/ConsoleApp18.csproj" />
+  <Project Path="ConsoleApp19/ConsoleApp19.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+  <Project Path="ConsoleApp20/ConsoleApp20.csproj" />
+  <Project Path="ConsoleApp21/ConsoleApp21.csproj" />
+  <Project Path="ConsoleApp22/ConsoleApp22.csproj" />
+  <Project Path="ConsoleApp23/ConsoleApp23.csproj" />
+  <Project Path="ConsoleApp24/ConsoleApp24.csproj" />
+  <Project Path="ConsoleApp25/ConsoleApp25.csproj" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" />
+  <Project Path="ConsoleApp7/ConsoleApp7.csproj" />
+  <Project Path="ConsoleApp8/ConsoleApp8.csproj" />
+  <Project Path="ConsoleApp9/ConsoleApp9.csproj" />
+</Solution>
